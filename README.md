@@ -1,2 +1,5 @@
-# colorful-ostream
-cross-platform colorful output stream
+# Colorful Ostream
+
+Cross-platform colorful output stream.
+
+Useful on Windows(powershell, cmd), Linux, macOS.
